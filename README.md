@@ -9,5 +9,8 @@ This is a code that allows anyone to view any page and inspect element on mobile
 5. Hop into any page you would like to inspect element on and open/run the bookmark
 6. Enjoy!
 
+# How To Use CORRECTLY
+Warning that if the tabs don't swap while using the IE/Dev Tools, that doesn't mean it's broken, Its just a glitch. To fix, just spam click the tabs until they switch or work. And if you want to use console, you must spam click the console menu to type in it.
+
 # Extra
 PS. this will get updates every few weeks to fix parches and bugs.
