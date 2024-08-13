@@ -10,4 +10,4 @@ This is a code that allows anyone to view any page and inspect element on mobile
 6. Enjoy!
 
 # Extra
-PS. this will get updates every few weeks to fix parches and buts
+PS. this will get updates every few weeks to fix parches and bugs
