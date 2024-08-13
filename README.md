@@ -8,3 +8,6 @@ This is a code that allows anyone to view any page and inspect element on mobile
 4. Rename bookmark to "Inspect Element"
 5. Hop into any page you would like to inspect element on and open/run the bookmark
 6. Enjoy!
+
+# Extra
+PS. this will get updates every few weeks to fix parches and buts
